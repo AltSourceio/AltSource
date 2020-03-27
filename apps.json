@@ -20,6 +20,104 @@
 				"https://quarksources.imfast.io/files/unc0ver/assets/image1.png",
 				"https://quarksources.imfast.io/files/unc0ver/assets/image2.png"
 			]
+    },
+    {
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "Electra Team",
+      "subtitle": "Chimera is a jailbreak tool for iOS 12.",
+      "version": "1.4.0",
+      "versionDate": "2020-03-14T00:00:00-00:00",
+      "versionDescription": "Bug fixes and small improvements.",
+      "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
+      "localizedDescription": "Full-fledged\n\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.\n\nStable\n\nWe've rewritten Chimera from the ground up to ensure that there's no battery drain, freezing, or crashing. There's simply nothing else like it, and we can't wait for you to see for yourself\n\nModern\n\nChimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible.",
+      "iconURL": "https://i.imgur.com/cF9hdzv.png",
+      "tintColor": "33a597",
+      "size": 91350280,
+      "screenshotURLs": [
+				"https://quarksources.imfast.io/files/Chimera/assets/image0.png",
+				"https://quarksources.imfast.io/files/Chimera/assets/image1.png",
+				"https://quarksources.imfast.io/files/Chimera/assets/image2.png"
+      ]
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "Straightforward iOS torrent client app",
+      "version": "1.7.4.1",
+      "versionDate": "2020-03-19T14:30:00-07:00",
+      "versionDescription": "Fixed:\n\n• Background mode not work if zero speed limit disabled\n\nWhat's new:\n\n• Added https protocol support for trackers!\n• FTP server replaced by WebDAV, file sharing is now possible through a web browser\n• Added background stop when downloading at zero speed\n• Clicking on a notification now opens a specific window\n• UI improvements",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
+      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian",
+      "iconURL": "https://images.opencollective.com/itorrent/0ec0088/logo/256.png",
+      "tintColor": "e32b3c",
+      "size": 20132659,
+      "screenshotURLs": [
+        "https://quarksources.imfast.io/files/iTorrent/assets/image0.png",
+        "https://quarksources.imfast.io/files/iTorrent/assets/image1.png",
+        "https://quarksources.imfast.io/files/iTorrent/assets/image2.png",
+				"https://quarksources.imfast.io/files/iTorrent/assets/image3.png"
+      ]
+    },
+    {
+      "name": "RetroArch",
+      "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
+      "developerName": "libretro",
+      "subtitle": "Cross-platform, sophisticated frontend for emulation.",
+      "version": "1.7.9",
+      "versionDate": "2019-10-04T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://cdn.builds.io/ipa_builds/RetroArch%20(3).ipa",
+      "localizedDescription": "RetroArch is a frontend for a plethora of emulators. Almost every Retro console can be run using one of RetroArch's downloadable cores.\n\nThere are several ways to customize your experience by installing different themes, rearranging your touchscreen controls, downloading game box art, and more.",
+      "iconURL": "https://github.com/libretro/RetroArch/raw/master/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-83.5-3.png",
+      "tintColor": "000000",
+      "size": 247979877,
+      "screenshotURLs": [
+
+      ]
+    },
+		{
+      "name": "Flappy Bird",
+      "bundleIdentifier": "com.thatcherdev.flappybird",
+      "developerName": "Brandon Plank",
+      "subtitle": "A near perfect clone to the original.",
+      "version": "1.0",
+      "versionDate": "2019-10-04T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/1.7/org.brandonplank.flapp_1.7.ipa",
+      "localizedDescription": "This Flappy Bird is an extremely close clone to the original FlappyBird by Dong Nguyen.\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
+      "iconURL": "https://github.com/brandonplank/flappybird/raw/master/FlappyBird/Assets.xcassets/AppIcon.appiconset/87.png",
+      "tintColor": "48cc49",
+      "size": 13339211,
+      "screenshotURLs": [
+				"https://quarksources.imfast.io/files/FlappyBird/assets/image0.png",
+				"https://quarksources.imfast.io/files/FlappyBird/assets/image1.png",
+				"https://quarksources.imfast.io/files/FlappyBird/assets/image2.png"
+      ]
+    },
+		{
+			"name": "Rewound",
+			"bundleIdentifier": "com.louisanslow.record",
+			"developerName": "Louis Anslow",
+			"subtitle": "Turn your iPhone into an iPod. Classic.",
+			"version": "2019.7",
+			"versionDate": "2019-12-09T14:30:00-07:00",
+			"versionDescription": "Small fixes.",
+			"downloadURL": "https://quarksources.imfast.io/files/Rewound/Rewound.ipa",
+			"localizedDescription": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
+			"iconURL": "https://quarksources.imfast.io/files/Rewound/assets/icon.png",
+			"tintColor": "9e968d",
+			"size": 5628716,
+			"permissions": [
+				{
+				"type": "music",
+				"usageDescription": "Rewound needs access to your music library to control your music."
+				}
+			],
+			"screenshotURLs": [
+
+			]
 		},
         {
             "name": "GBA4iOS",
@@ -39,6 +137,23 @@
               "https://user-images.githubusercontent.com/705880/77479187-8c29be00-6ddc-11ea-92ee-d4e2de14d781.png",
               "https://user-images.githubusercontent.com/705880/77479186-8b912780-6ddc-11ea-9303-32c615f2349f.png",
               "https://user-images.githubusercontent.com/705880/77479180-892ecd80-6ddc-11ea-8705-400257988a2b.png"
+            ]
+          },
+          {
+            "name": "UTM",
+            "bundleIdentifier": "com.osy86.UTM",
+            "developerName": "osy86",
+            "subtitle": "Run virtual machines on iOS",
+            "version": "0.1",
+            "versionDate": "2020-02-19",
+            "versionDescription": "Please visit https://getutm.app/install for more details.",
+            "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.1/UTM.ipa",
+            "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
+            "iconURL": "https://getutm.app/assets/appicon.png",
+            "tintColor": "1E47D0",
+            "size": 124967347,
+            "screenshotURLs": [
+              "http://placehold.it/750x1334"
             ]
           },
               {
@@ -127,8 +242,39 @@
       
             ]
           }
+          
           ],
           "news": [
+            {
+              "title": "UTM beta on AltStore!",
+              "identifier": "utm-beta-on-altstore",
+              "caption": "Any OS, Anywhere.",
+              "tintColor": "2044cd",
+              "imageURL": "https://quarksources.imfast.io/files/UTM/assets/news.png",
+              "appID": "com.osy86.UTM",
+              "date": "2020-03-26",
+              "notify": false
+            },
+            {
+              "title": "RetroArch, now available.",
+              "identifier": "retroarch-now-available",
+              "caption": "Looking for that obscure game console? Look no further.",
+              "tintColor": "000000",
+              "imageURL": "https://quarksources.imfast.io/files/RetroArch/assets/news.png",
+              "appID": "com.libretro.dist.ios.RetroArch",
+              "date": "2020-03-26",
+              "notify": false
+            },
+            {
+              "title": "Chimera now available on AltStore!",
+              "identifier": "chimera-now-available-altstore",
+              "caption": "Your device, your way. Unlock your potential.",
+              "tintColor": "33a597",
+              "imageURL": "https://pangu8.com/wp-content/uploads/2019/09/Chimera-thumb-header-chimeratv-768x384.png",
+              "appID": "com.electrateam.chimera",
+              "date": "2020-03-24",
+              "notify": true
+            },
               {
             "title": "Provenance now on AltStore!",
             "identifier": "provenance-now-on-altstore",
