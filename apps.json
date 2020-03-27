@@ -207,6 +207,23 @@
               "https://quarksources.imfast.io/files/Provenance/assets/image2.png"
             ]
           },
+          {
+            "name": "Electra",
+            "bundleIdentifier": "org.coolstar.electra-large.png",
+            "developerName": "Electra Team",
+            "subtitle": "This is the new iOS 11 Jailbreak toolkit developed by Coolstar for all iOS developers to test their new tweaks and themes on iOS 11.",
+            "version": "1.0.4",
+            "versionDate": "2020-03-21T14:30:00-07:00",
+            "versionDescription": "None",
+            "downloadURL": "https://electrajb.com/downloads/Electra%201.0.4.ipa",
+            "localizedDescription": "Electra Jailbreak download is not a regular jailbreak, it is a development toolkit which is meant for developers and themers.",
+            "iconURL": "https://silzee.com/electra/images/electra.png",
+            "tintColor": "21486b",
+            "size": 23184304,
+            "screenshotURLs": [
+      
+            ]
+          },
               {
             "name": "PPSSPP",
             "bundleIdentifier": "org.ppsspp.ppsspp",
