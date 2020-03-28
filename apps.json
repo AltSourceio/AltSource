@@ -211,17 +211,19 @@
             "name": "Electra",
             "bundleIdentifier": "org.coolstar.electra-large.png",
             "developerName": "Electra Team",
-            "subtitle": "This is the new iOS 11 Jailbreak toolkit developed by Coolstar for all iOS developers to test their new tweaks and themes on iOS 11.",
-            "version": "1.0.4",
-            "versionDate": "2020-03-21T14:30:00-07:00",
-            "versionDescription": "None",
+            "subtitle": "An alternative App Store for iOS.",
+            "version": "1.3.2",
+            "versionDate": "2020-03-24T14:00:00-07:00",
+            "versionDescription": "Now ships with both Cydia and Sileo installed by default (Cydia will eventually no longer be shipped by default, but will always be installable)",
             "downloadURL": "https://electrajb.com/downloads/Electra%201.0.4.ipa",
-            "localizedDescription": "Electra Jailbreak download is not a regular jailbreak, it is a development toolkit which is meant for developers and themers.",
-            "iconURL": "https://silzee.com/electra/images/electra.png",
-            "tintColor": "21486b",
-            "size": 23184304,
+            "localizedDescription": "This is the new iOS 11 Jailbreak toolkit developed by Coolstar for all iOS developers to test their new tweaks and themes on iOS 11. Electra Jailbreak download is not a regular jailbreak, it is a development toolkit which is meant for developers and themers.",
+            "iconURL": "data:image/jpeg;base64,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",
+            "tintColor": "596180",
+            "size": 2184796,
+            "beta": false,
             "screenshotURLs": [
-      
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfg2tTCYLOmW3V6aLmk7BD_DTt3BE27DFNrCwszSSIZguBz1g0",
+              "https://pangu8.com/wp-content/uploads/2019/08/ElectraJB.jpg"
             ]
           },
               {
